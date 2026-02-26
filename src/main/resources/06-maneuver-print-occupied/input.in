@@ -1,0 +1,37 @@
+00:00:00 - add_runway_in_use - Alpha - landing - wide body
+00:00:03 - add_runway_in_use - Delta - takeoff - narrow body
+09:00:00 - allocate_plane - narrow body - Airbus A320 - BT5891 - Bucharest - Budapest - 09:20:00 - Delta
+09:02:00 - allocate_plane - narrow body - Airbus A320 - FR3773 - Bucharest - Bergamo - 09:15:00 - Delta
+09:03:00 - allocate_plane - narrow body - Airbus A320 - OS786 - Bucharest - Vienna - 09:25:00 - Delta
+09:04:00 - allocate_plane - narrow body - Airbus A320 - FR6285 - Bucharest - Pisa - 09:30:00 - Delta
+09:05:00 - allocate_plane - narrow body - Airbus A320 - A3963 - Bucharest - Athens - 09:35:00 - Delta
+09:06:00 - permission_for_maneuver - Delta
+09:07:00 - flight_info - FR3773
+09:17:00 - permission_for_maneuver - Delta
+09:20:00 - runway_info - Delta
+09:25:00 - permission_for_maneuver - Delta
+09:26:00 - flight_info - OS786
+09:32:00 - runway_info - Delta
+09:52:00 - permission_for_maneuver - Delta
+10:59:00 - permission_for_maneuver - Delta
+10:11:00 - flight_info - FR6285
+10:12:00 - flight_info - A3963
+11:00:00 - allocate_plane - wide body - Airbus A380 - W43140 - Bologna - Bucharest - 10:20:00 - Alpha
+11:01:00 - allocate_plane - wide body - Airbus A380 - RO266 - Istanbul - Bucharest - 10:15:00 - Alpha
+11:02:00 - allocate_plane - wide body - Airbus A380 - LX1886 - Zurich - Bucharest - 10:10:00 - Alpha
+11:03:00 - allocate_plane - wide body - Airbus A380 - KL1377 - Amsterdam - Bucharest - 10:25:00 - Alpha
+11:04:00 - allocate_plane - wide body - Airbus A380 - W43146 - Rome - Bucharest - 10:30:00 - Alpha
+11:05:00 - permission_for_maneuver - Alpha
+11:06:00 - flight_info - LX1886
+11:13:00 - runway_info - Alpha
+11:18:00 - permission_for_maneuver - Alpha
+11:19:00 - flight_info - RO266
+11:20:00 - runway_info - Alpha
+11:31:00 - permission_for_maneuver - Alpha
+11:32:00 - flight_info - KL1377
+11:36:00 - runway_info - Alpha
+11:44:00 - permission_for_maneuver - Alpha
+11:45:00 - flight_info - W43146
+11:55:00 - runway_info - Alpha
+23:59:00 - exit
+
